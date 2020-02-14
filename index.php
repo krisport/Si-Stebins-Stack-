@@ -40,8 +40,6 @@ if(!empty($_POST['Select_card_deck'])){
 
 	$_SESSION['Select_card_deck'] = $_POST['Select_card_deck'];
 	header("location: output.php");
-// }else{
-// 	echo "Please enter valid input";
 }
     
 
