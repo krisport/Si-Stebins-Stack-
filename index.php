@@ -6,7 +6,7 @@ session_start();
 <head>
 	<meta charset="UTF-8">
 	<title>Si Stebbins Stack</title>
-	<link rel="stylesheet" type="text/css" href="styles/style1.css">
+	<link rel="stylesheet" type="text/css" href="styles/style.css">
 </head>
 <body>
      <center><h1 style="color: limegreen;" class = "title">Si Stebbins Stack</h1></center>
