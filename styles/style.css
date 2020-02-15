@@ -1,1 +1,30 @@
+body{
+	background: url('card.jpg') no-repeat center center fixed;
+	background-size:cover;
 
+}
+.title{
+	background: linear-gradient;
+}
+.class1{
+	background: #dc143c;
+	color: white;
+
+}
+a{
+	border: 1px #ccc solid;
+	border-radius: 5px;
+	text-align: center;
+	width: 100px;
+	margin:15px;
+	padding: 7.5px;
+	text-decoration: none;
+}
+a:link, a:visited {
+	color: #000;
+}
+a:hover, a:active{
+	color: #fff;
+	background-color: #dc143c;
+	box-shadow: 5px 5px #000;
+}
