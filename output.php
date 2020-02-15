@@ -6,13 +6,12 @@ session_start();
 <head>
 	<meta charset="UTF-8">
 	<title>Si Stebbins Stack</title>
-	<link rel="stylesheet" type="text/css" href="styles/style1.css">
+	<link rel="stylesheet" type="text/css" href="styles/style.css">
 	<script type="text/javascript" src="https://kit.fontawesome.com/a076d05399.js"></script>
 </head>
 <body>
 <?php 
 error_reporting(E_ERROR | E_WARNING | E_PARSE);
-//Day 1 Start
 $deck = [
 "C",
 "H",
